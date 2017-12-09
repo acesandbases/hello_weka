@@ -1,100 +1,100 @@
-rank,name,country,category,sales,profit,assets,marketvalue
-1,Citigroup,'United States',Banking,94.71,17.85,1264.03,255.3
-2,'General Electric','United States',Conglomerates,134.19,15.59,626.93,328.54
-3,'American Intl Group','United States',Insurance,76.66,6.46,647.66,194.87
-4,ExxonMobil,'United States','Oil & gas operations',222.88,20.96,166.99,277.02
-5,BP,'United Kingdom','Oil & gas operations',232.57,10.27,177.57,173.54
-6,'Bank of America','United States',Banking,49.01,10.81,736.45,117.55
-7,'HSBC Group','United Kingdom',Banking,44.33,6.66,757.6,177.96
-8,'Toyota Motor',Japan,'Consumer durables',135.82,7.99,171.71,115.4
-9,'Fannie Mae','United States','Diversified financials',53.13,6.48,1019.17,76.84
-10,'Wal-Mart Stores','United States',Retailing,256.33,9.05,104.91,243.74
-11,UBS,Switzerland,'Diversified financials',48.95,5.15,853.23,85.07
-12,'ING Group',Netherlands,'Diversified financials',94.72,4.73,752.49,54.59
-13,'Royal Dutch/Shell Group','Netherlands/ United Kingdom','Oil & gas operations',133.5,8.4,100.72,163.45
-14,'Berkshire Hathaway','United States',Insurance,56.22,6.95,172.24,141.14
-15,'JP Morgan Chase','United States',Banking,44.39,4.47,792.7,81.94
-16,IBM,'United States','Technology hardware & equipment',89.13,7.58,104.46,171.54
-17,Total,France,'Oil & gas operations',131.64,8.84,87.84,116.64
-18,'BNP Paribas',France,Banking,47.74,4.73,745.09,59.29
-19,'Royal Bank of Scotland','United Kingdom',Banking,35.65,4.95,663.45,90.21
-20,'Freddie Mac','United States','Diversified financials',46.26,10.09,752.25,44.25
-21,DaimlerChrysler,Germany,'Consumer durables',157.13,5.12,195.58,47.43
-22,'Altria Group','United States','Food drink & tobacco',60.7,9.2,96.18,111.02
-23,ChevronTexaco,'United States','Oil & gas operations',112.94,7.43,82.36,92.49
-24,Pfizer,'United States','Drugs & biotechnology',40.36,6.2,120.06,285.27
-25,'Wells Fargo','United States',Banking,31.8,6.2,387.8,97.53
-26,'Verizon Commun','United States','Telecommunications services',67.75,2.57,165.97,103.97
-27,Barclays,'United Kingdom',Banking,33.69,4.9,791.54,61.33
-28,'Morgan Stanley','United States','Diversified financials',33,3.64,580.63,64.81
-29,'General Motors','United States','Consumer durables',185.52,3.82,450,27.47
-30,'Nippon Tel & Tel',Japan,'Telecommunications services',92.41,2.17,150.87,73
-31,Microsoft,'United States','Software & services',34.27,8.88,85.94,287.02
-32,Nestle,Switzerland,'Food drink & tobacco',64.56,5.48,62.15,106.55
-33,'SBC Communications','United States','Telecommunications services',39.16,5.97,100.17,82.93
-34,'Deutsche Bank Group',Germany,'Diversified financials',58.85,1.53,792.49,50.23
-35,'Siemens Group',Germany,Conglomerates,86.62,2.81,85.47,75.77
-36,HBOS,'United Kingdom',Banking,32.68,3.09,571.76,52.87
-37,ENI,Italy,'Oil & gas operations',53.29,4.82,67.91,76.13
-38,ConocoPhillips,'United States','Oil & gas operations',90.49,4.83,81.95,46.72
-39,'Banco Santander Central',Spain,Banking,28.7,3.28,442.24,56.78
-40,'Merrill Lynch','United States','Diversified financials',26.64,3.47,485.77,57.52
-41,Wachovia,'United States',Banking,24.47,4.25,400.87,62.35
-42,'Time Warner','United States',Media,38.08,2.65,121.78,77.95
-43,Hewlett-Packard,'United States','Technology hardware & equipment',73.06,2.54,74.71,70.2
-44,'Procter & Gamble','United States','Household & personal products',46.99,5.81,53.86,131.89
-45,'Samsung Electronics','South Korea',Semiconductors,50.22,5.95,54.58,72.72
-46,'Johnson & Johnson','United States','Drugs & biotechnology',40.01,6.74,46.66,160.96
-47,'Lloyds TSB Group','United Kingdom',Banking,24.48,2.87,406.99,48.11
-48,'ABN-Amro Holding',Netherlands,Banking,23.64,3.98,704.95,39.29
-49,'Honda Motor',Japan,'Consumer durables',67.44,3.61,63.09,40.61
-50,'American Express','United States','Diversified financials',24.17,3,175,68.89
-51,'Nissan Motor',Japan,'Consumer durables',57.77,4.19,60.56,41.71
-52,'Bank One','United States',Banking,21.04,3.4,290.01,58.38
-53,'AXA Group',France,Insurance,90.1,1,456.13,41.39
-54,'Societe Generale Group',France,Banking,35.52,1.61,526.54,40.61
-55,PetroChina,China,'Oil & gas operations',29.53,5.67,58.36,90.49
-56,'Goldman Sachs Group','United States','Diversified financials',22.84,2.54,394.14,50.12
-57,'BBVA-Banco Bilbao Vizcaya',Spain,Banking,24.1,2.81,288.8,44.67
-58,Intel,'United States',Semiconductors,30.14,5.64,47.14,196.87
-59,MetLife,'United States',Insurance,35.79,2.24,326.84,26.34
-60,'Home Depot','United States',Retailing,62.9,4.04,35.37,82.29
-61,Viacom,'United States',Media,25.85,2.47,90.94,68.66
-62,Allstate,'United States',Insurance,32.15,2.73,134.14,32.9
-63,'Merck & Co','United States','Drugs & biotechnology',30.78,7.33,42.59,108.76
-64,'Novartis Group',Switzerland,'Drugs & biotechnology',26.77,5.4,46.92,116.43
+rank,name,country,category,sales,profits,assets,marketvalue
+1,Citigroup,United States,Banking,94.71,17.85,1264.03,255.3
+2,General Electric,United States,Conglomerates,134.19,15.59,626.93,328.54
+3,American Intl Group,United States,Insurance,76.66,6.46,647.66,194.87
+4,ExxonMobil,United States,Oil & gas operations,222.88,20.96,166.99,277.02
+5,BP,United Kingdom,Oil & gas operations,232.57,10.27,177.57,173.54
+6,Bank of America,United States,Banking,49.01,10.81,736.45,117.55
+7,HSBC Group,United Kingdom,Banking,44.33,6.66,757.6,177.96
+8,Toyota Motor,Japan,Consumer durables,135.82,7.99,171.71,115.4
+9,Fannie Mae,United States,Diversified financials,53.13,6.48,1019.17,76.84
+10,Wal-Mart Stores,United States,Retailing,256.33,9.05,104.91,243.74
+11,UBS,Switzerland,Diversified financials,48.95,5.15,853.23,85.07
+12,ING Group,Netherlands,Diversified financials,94.72,4.73,752.49,54.59
+13,Royal Dutch/Shell Group,Netherlands/ United Kingdom,Oil & gas operations,133.5,8.4,100.72,163.45
+14,Berkshire Hathaway,United States,Insurance,56.22,6.95,172.24,141.14
+15,JP Morgan Chase,United States,Banking,44.39,4.47,792.7,81.94
+16,IBM,United States,Technology hardware & equipment,89.13,7.58,104.46,171.54
+17,Total,France,Oil & gas operations,131.64,8.84,87.84,116.64
+18,BNP Paribas,France,Banking,47.74,4.73,745.09,59.29
+19,Royal Bank of Scotland,United Kingdom,Banking,35.65,4.95,663.45,90.21
+20,Freddie Mac,United States,Diversified financials,46.26,10.09,752.25,44.25
+21,DaimlerChrysler,Germany,Consumer durables,157.13,5.12,195.58,47.43
+22,Altria Group,United States,Food drink & tobacco,60.7,9.2,96.18,111.02
+23,ChevronTexaco,United States,Oil & gas operations,112.94,7.43,82.36,92.49
+24,Pfizer,United States,Drugs & biotechnology,40.36,6.2,120.06,285.27
+25,Wells Fargo,United States,Banking,31.8,6.2,387.8,97.53
+26,Verizon Commun,United States,Telecommunications services,67.75,2.57,165.97,103.97
+27,Barclays,United Kingdom,Banking,33.69,4.9,791.54,61.33
+28,Morgan Stanley,United States,Diversified financials,33,3.64,580.63,64.81
+29,General Motors,United States,Consumer durables,185.52,3.82,450,27.47
+30,Nippon Tel & Tel,Japan,Telecommunications services,92.41,2.17,150.87,73
+31,Microsoft,United States,Software & services,34.27,8.88,85.94,287.02
+32,Nestle,Switzerland,Food drink & tobacco,64.56,5.48,62.15,106.55
+33,SBC Communications,United States,Telecommunications services,39.16,5.97,100.17,82.93
+34,Deutsche Bank Group,Germany,Diversified financials,58.85,1.53,792.49,50.23
+35,Siemens Group,Germany,Conglomerates,86.62,2.81,85.47,75.77
+36,HBOS,United Kingdom,Banking,32.68,3.09,571.76,52.87
+37,ENI,Italy,Oil & gas operations,53.29,4.82,67.91,76.13
+38,ConocoPhillips,United States,Oil & gas operations,90.49,4.83,81.95,46.72
+39,Banco Santander Central,Spain,Banking,28.7,3.28,442.24,56.78
+40,Merrill Lynch,United States,Diversified financials,26.64,3.47,485.77,57.52
+41,Wachovia,United States,Banking,24.47,4.25,400.87,62.35
+42,Time Warner,United States,Media,38.08,2.65,121.78,77.95
+43,Hewlett-Packard,United States,Technology hardware & equipment,73.06,2.54,74.71,70.2
+44,Procter & Gamble,United States,Household & personal products,46.99,5.81,53.86,131.89
+45,Samsung Electronics,South Korea,Semiconductors,50.22,5.95,54.58,72.72
+46,Johnson & Johnson,United States,Drugs & biotechnology,40.01,6.74,46.66,160.96
+47,Lloyds TSB Group,United Kingdom,Banking,24.48,2.87,406.99,48.11
+48,ABN-Amro Holding,Netherlands,Banking,23.64,3.98,704.95,39.29
+49,Honda Motor,Japan,Consumer durables,67.44,3.61,63.09,40.61
+50,American Express,United States,Diversified financials,24.17,3,175,68.89
+51,Nissan Motor,Japan,Consumer durables,57.77,4.19,60.56,41.71
+52,Bank One,United States,Banking,21.04,3.4,290.01,58.38
+53,AXA Group,France,Insurance,90.1,1,456.13,41.39
+54,Societe Generale Group,France,Banking,35.52,1.61,526.54,40.61
+55,PetroChina,China,Oil & gas operations,29.53,5.67,58.36,90.49
+56,Goldman Sachs Group,United States,Diversified financials,22.84,2.54,394.14,50.12
+57,BBVA-Banco Bilbao Vizcaya,Spain,Banking,24.1,2.81,288.8,44.67
+58,Intel,United States,Semiconductors,30.14,5.64,47.14,196.87
+59,MetLife,United States,Insurance,35.79,2.24,326.84,26.34
+60,Home Depot,United States,Retailing,62.9,4.04,35.37,82.29
+61,Viacom,United States,Media,25.85,2.47,90.94,68.66
+62,Allstate,United States,Insurance,32.15,2.73,134.14,32.9
+63,Merck & Co,United States,Drugs & biotechnology,30.78,7.33,42.59,108.76
+64,Novartis Group,Switzerland,Drugs & biotechnology,26.77,5.4,46.92,116.43
 65,ENEL,Italy,Utilities,38.99,2.11,71.36,46.84
-66,Unilever,'Netherlands/ United Kingdom','Food drink & tobacco',50.7,2.24,45.49,72.19
-67,'Washington Mutual','United States',Banking,18.01,3.88,275.18,39.69
-68,'Credit Agricole',France,Banking,31.77,1.12,531.01,38.8
-69,'Deutsche Post',Germany,Transportation,41.23,1.64,169.33,26.83
-70,Comcast,'United States',Media,18.35,3.24,109.16,67.3
-71,'Volkswagen Group',Germany,'Consumer durables',91.33,2.71,112.87,17.42
-72,'Tokyo Electric Power',Japan,Utilities,41.62,1.4,116.68,30.63
-73,'Munich Re',Germany,Insurance,45.85,1.14,191.33,26.63
-74,'BMW-Bayerische Motor',Germany,'Consumer durables',52.23,2.12,58.11,29.03
-75,'Ford Motor','United States','Consumer durables',164.2,0.76,312.56,26.29
-76,'Tyco International',Bermuda,Conglomerates,37.57,1.19,62.8,58.41
-77,'US Bancorp','United States',Banking,14.57,3.73,189.29,52.88
-78,'Roche Group',Switzerland,'Drugs & biotechnology',25.18,2.48,45.77,95.38
-79,'Royal Bank of Canada',Canada,Banking,18.82,2.28,305.01,31.82
-80,GlaxoSmithKline,'United Kingdom','Drugs & biotechnology',34.16,6.34,29.19,124.79
-81,'China Petroleum & Chemical',China,'Oil & gas operations',39.16,1.94,45.32,50.09
-82,Sony,Japan,'Consumer durables',63.23,0.98,68.04,38
-83,Nokia,Finland,'Technology hardware & equipment',37.05,4.52,29.15,104.3
-84,BellSouth,'United States','Telecommunications services',22.58,3.59,49.62,54.08
-85,'Walt Disney','United States',Media,28.44,1.92,51.52,55.06
-86,'Natl Australia Bank',Australia,Banking,15.34,2.69,269.94,36.51
-87,Gazprom,Russia,'Oil & gas operations',19.21,3.81,77.15,36.28
-88,'Carrefour Group',France,'Food markets',96.94,1.45,40.11,37.19
-89,'Cisco Systems','United States','Technology hardware & equipment',19.82,4.35,36.59,166.09
-90,'FleetBoston Finl','United States',Banking,14.22,2.13,196.4,47.19
-91,'RWE Group',Germany,Utilities,45.68,1.1,97.35,23.76
-92,'UniCredito Italiano',Italy,Banking,16.53,1.89,223.6,33.53
-93,'BT Group','United Kingdom','Telecommunications services',29.58,4.24,44.42,28.73
-94,'United Parcel Service','United States',Transportation,32.81,3.54,28.37,79.62
-95,'United Technologies','United States',Conglomerates,31.03,2.36,34.65,48.77
-96,Fortis,Netherlands,'Diversified financials',52.51,0.56,507.98,30.19
-97,'Dow Chemical','United States',Chemicals,32.63,1.74,41.89,39.85
-98,'Aegon Insurance Group',Netherlands,Insurance,17.75,1.63,266.59,23.49
+66,Unilever,Netherlands/ United Kingdom,Food drink & tobacco,50.7,2.24,45.49,72.19
+67,Washington Mutual,United States,Banking,18.01,3.88,275.18,39.69
+68,Credit Agricole,France,Banking,31.77,1.12,531.01,38.8
+69,Deutsche Post,Germany,Transportation,41.23,1.64,169.33,26.83
+70,Comcast,United States,Media,18.35,3.24,109.16,67.3
+71,Volkswagen Group,Germany,Consumer durables,91.33,2.71,112.87,17.42
+72,Tokyo Electric Power,Japan,Utilities,41.62,1.4,116.68,30.63
+73,Munich Re,Germany,Insurance,45.85,1.14,191.33,26.63
+74,BMW-Bayerische Motor,Germany,Consumer durables,52.23,2.12,58.11,29.03
+75,Ford Motor,United States,Consumer durables,164.2,0.76,312.56,26.29
+76,Tyco International,Bermuda,Conglomerates,37.57,1.19,62.8,58.41
+77,US Bancorp,United States,Banking,14.57,3.73,189.29,52.88
+78,Roche Group,Switzerland,Drugs & biotechnology,25.18,2.48,45.77,95.38
+79,Royal Bank of Canada,Canada,Banking,18.82,2.28,305.01,31.82
+80,GlaxoSmithKline,United Kingdom,Drugs & biotechnology,34.16,6.34,29.19,124.79
+81,China Petroleum & Chemical,China,Oil & gas operations,39.16,1.94,45.32,50.09
+82,Sony,Japan,Consumer durables,63.23,0.98,68.04,38
+83,Nokia,Finland,Technology hardware & equipment,37.05,4.52,29.15,104.3
+84,BellSouth,United States,Telecommunications services,22.58,3.59,49.62,54.08
+85,Walt Disney,United States,Media,28.44,1.92,51.52,55.06
+86,Natl Australia Bank,Australia,Banking,15.34,2.69,269.94,36.51
+87,Gazprom,Russia,Oil & gas operations,19.21,3.81,77.15,36.28
+88,Carrefour Group,France,Food markets,96.94,1.45,40.11,37.19
+89,Cisco Systems,United States,Technology hardware & equipment,19.82,4.35,36.59,166.09
+90,FleetBoston Finl,United States,Banking,14.22,2.13,196.4,47.19
+91,RWE Group,Germany,Utilities,45.68,1.1,97.35,23.76
+92,UniCredito Italiano,Italy,Banking,16.53,1.89,223.6,33.53
+93,BT Group,United Kingdom,Telecommunications services,29.58,4.24,44.42,28.73
+94,United Parcel Service,United States,Transportation,32.81,3.54,28.37,79.62
+95,United Technologies,United States,Conglomerates,31.03,2.36,34.65,48.77
+96,Fortis,Netherlands,Diversified financials,52.51,0.56,507.98,30.19
+97,Dow Chemical,United States,Chemicals,32.63,1.74,41.89,39.85
+98,Aegon Insurance Group,Netherlands,Insurance,17.75,1.63,266.59,23.49
 99,Dexia,Belgium,Banking,19.62,1.36,368.37,21.64
